@@ -11,6 +11,7 @@ const handleStyle = () => {};
   return (
     <div className="App">
       <h1>Dog Tag Laser Engraving Order Form </h1>
+      <h2>Chris Blair - ChrBla3661 - SDC445Lab Course Project</h2>
       <Button label="Lines" onClick={handleLines} />
       <Button label="Font" onClick={handleFont} />
       <Button label="Style" onClick={handleStyle} /><br/>
