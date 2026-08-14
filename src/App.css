@@ -17,6 +17,26 @@
   color: #61dafb;
 }
 
+.font-list,
+.StyleList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.line-textfields {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+}
+
+.line-textfield-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
 
 .Stencil {
   font-family: stencil; 
