@@ -11,7 +11,7 @@ const TextField = ({ value, onChange}) => {
     );
 }
 
-export const LineTextFields = ({ lineCount, previewClassName }) => {
+export const LineTextFields = ({ lineCount, previewClassName, onTextsChange }) => {
     const [lineTexts, setLineTexts] = useState([]);
 
     useEffect(() => {
@@ -22,6 +22,7 @@ export const LineTextFields = ({ lineCount, previewClassName }) => {
         setLineTexts((prev) => {
             const updated = [...prev];
             updated[index] = e.target.value;
+            onTextsChange(updated);
             return updated;
         });
     };

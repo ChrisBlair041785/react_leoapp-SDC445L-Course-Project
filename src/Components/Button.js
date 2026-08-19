@@ -24,7 +24,7 @@ export const LineCountButton = ({ onConfirm }) => {
         max="4"
         value={lineCountInput}
         onChange={(event) => setLineCountInput(event.target.value)}
-        placeholder="Enter number of lines (1-4)"
+        placeholder="# of lines (1-4)"
       />
       <Button label="Lines" onClick={handleClick} />
     </>
