@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react_leoapp/static/css/main.682d8779.css",
-    "main.js": "/react_leoapp/static/js/main.ac182ee9.js",
-    "static/js/453.cc6c8de2.chunk.js": "/react_leoapp/static/js/453.cc6c8de2.chunk.js",
-    "index.html": "/react_leoapp/index.html",
-    "main.682d8779.css.map": "/react_leoapp/static/css/main.682d8779.css.map",
-    "main.ac182ee9.js.map": "/react_leoapp/static/js/main.ac182ee9.js.map",
-    "453.cc6c8de2.chunk.js.map": "/react_leoapp/static/js/453.cc6c8de2.chunk.js.map"
+    "main.css": "/react_leoapp-SDC445L-Course-Project/static/css/main.682d8779.css",
+    "main.js": "/react_leoapp-SDC445L-Course-Project/static/js/main.255aef95.js",
+    "static/js/453.cc6c8de2.chunk.js": "/react_leoapp-SDC445L-Course-Project/static/js/453.cc6c8de2.chunk.js",
+    "index.html": "/react_leoapp-SDC445L-Course-Project/index.html",
+    "main.682d8779.css.map": "/react_leoapp-SDC445L-Course-Project/static/css/main.682d8779.css.map",
+    "main.255aef95.js.map": "/react_leoapp-SDC445L-Course-Project/static/js/main.255aef95.js.map",
+    "453.cc6c8de2.chunk.js.map": "/react_leoapp-SDC445L-Course-Project/static/js/453.cc6c8de2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.682d8779.css",
-    "static/js/main.ac182ee9.js"
+    "static/js/main.255aef95.js"
   ]
 }
